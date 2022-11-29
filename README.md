@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Michaelman31
+- 👀 I’m interested in Software Development. Creating games, apps, websites, etc.
+- 🌱 I’m currently learning Data Structure & Data Mining
+- 📫 How to reach me via email mancuso@susqu.edu
